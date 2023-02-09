@@ -11,7 +11,7 @@ public class App {
 		for (int i = 0; i < catNames.length; i++) {
 			Controller.addNewCat(catNames[i]);
 		}
-		
+	
 		// Init dogs ...
 		for (int i = 0; i < dogNames.length; i++) {
 			Controller.addNewDog(dogNames[i]);
